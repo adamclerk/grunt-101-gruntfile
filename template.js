@@ -9,7 +9,7 @@
 'use strict';
 
 // Basic template description.
-exports.description = 'Create a basic Gruntfile.';
+exports.description = 'Create a basic Gruntfile for 101 Class.';
 
 // Template-specific notes to be displayed before question prompts.
 exports.notes = 'This template tries to guess file and directory paths, but ' +
