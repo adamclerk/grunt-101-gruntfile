@@ -15,8 +15,6 @@ module.exports = function (grunt) {
     }
   });
 
-  // These plugins provide necessary tasks.{% if (min_concat) { %}
-
   // Default task.
   grunt.registerTask('default');
 
