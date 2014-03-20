@@ -46,6 +46,12 @@ exports.template = function(grunt, init, done) {
       });
     }
 
+    var files = init.filesToCopy({
+      'Gruntfile.js': 'root/Gruntfile.js'
+    });
+
+    init.copyAndProcess(files, props);
+
     // All done!
     done();
   });
