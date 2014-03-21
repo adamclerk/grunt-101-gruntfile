@@ -36,7 +36,8 @@ exports.template = function(grunt, init, done) {
     // If is package_json true, generate package.json
     if (props.package_json) {
       var devDependencies = {
-        'grunt': '~0.4.2'
+        'grunt': '~0.4.2',
+        'grunt-cat': '~0.1.2'
       };
 
       // Generate package.json file, used by npm and grunt.
