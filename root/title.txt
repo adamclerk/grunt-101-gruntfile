@@ -1,7 +1,11 @@
-   _____ _____  _    _ _   _ _______ __  ___  __ 
-  / ____|  __ \| |  | | \ | |__   __/_ |/ _ \/_ |
- | |  __| |__) | |  | |  \| |  | |   | | | | || |
- | | |_ |  _  /| |  | | . ` |  | |   | | | | || |
- | |__| | | \ \| |__| | |\  |  | |   | | |_| || |
-  \_____|_|  \_\\____/|_| \_|  |_|   |_|\___/ |_|
-                                                 
+                                                              
+                                                              
+  .g8"""bgd `7MM"""Mq.`7MMF'   `7MF'`7MN.   `7MF'MMP""MM""YMM 
+.dP'     `M   MM   `MM. MM       M    MMN.    M  P'   MM   `7 
+dM'       `   MM   ,M9  MM       M    M YMb   M       MM      
+MM            MMmmdM9   MM       M    M  `MN. M       MM      
+MM.    `7MMF' MM  YM.   MM       M    M   `MM.M       MM      
+`Mb.     MM   MM   `Mb. YM.     ,M    M     YMM       MM      
+  `"bmmmdPY .JMML. .JMM. `bmmmmd"'  .JML.    YM     .JMML.    
+                                                              
+                                                              
