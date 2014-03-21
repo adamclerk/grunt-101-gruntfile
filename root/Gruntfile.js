@@ -12,10 +12,17 @@ module.exports = function (grunt) {
       ' Licensed <%= _.pluck(pkg.licenses, "type").join(", ") %> */\n',
     meta: {
       version: '0.1.0'
+    },
+    cat: {
+      logo: {
+        file: 'title.txt'
+      }
     }
   });
 
+  grunt.loadNpmTasks('grunt-cat');
+
   // Default task.
-  grunt.registerTask('default');
+  grunt.registerTask('default', ['cat:logo']);
 
 };
