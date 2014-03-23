@@ -40,7 +40,8 @@ exports.template = function(grunt, init, done) {
         'grunt-cat': '~0.1.2',
         'grunt-contrib-less': '~0.11.0',
         'grunt-contrib-cssmin': '~0.9.0',
-        'grunt-contrib-jshint': '~0.9.2'
+        'grunt-contrib-jshint': '~0.9.2',
+        'jshint-stylish': '~0.1.5'
       };
 
       // Generate package.json file, used by npm and grunt.
