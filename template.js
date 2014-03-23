@@ -24,12 +24,12 @@ exports.warnOn = 'Gruntfile.js';
 exports.template = function(grunt, init, done) {
 
   init.process({}, [
-    /*{
+    {
       name: 'package_json',
       message: 'Will you have a package.json file?',
       default: 'Y/n',
       warning: 'This changes how filenames are determined and banners are generated.'
-    }*/
+    }
   ], function(err, props) {
     props.package_json = /y/i.test(props.package_json);
 
