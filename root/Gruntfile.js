@@ -21,6 +21,9 @@ module.exports = function (grunt) {
   });
 
   grunt.loadNpmTasks('grunt-cat');
+  grunt.loadNpmTasks('grunt-contrib-less');
+  grunt.loadNpmTasks('grunt-contrib-cssmin');
+  grunt.loadNpmTasks('grunt-contrib-jshint');
 
   // Default task.
   grunt.registerTask('default', ['cat:logo']);
