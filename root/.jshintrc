@@ -12,6 +12,7 @@
   //"indent"        : 2,        // Specify indentation spacing
   "maxerr"        : 100,      // Maximum errors before stopping.
   "maxlen"        : 220,
+  "quotmark"      : "double", // Consistent quote marks
   "predef"        : [         // Extra globals.
     "CodeMirror",
     "define"
