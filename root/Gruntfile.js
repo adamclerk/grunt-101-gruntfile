@@ -26,7 +26,8 @@ module.exports = function (grunt) {
   grunt.loadNpmTasks("grunt-contrib-cssmin");
   grunt.loadNpmTasks("grunt-contrib-jshint");
   grunt.loadNpmTasks("grunt-contrib-uglify");
-  grunt.loadNpmTasks("grunt-rev");
+  grunt.loadNpmTasks("grunt-static-handlebars");
+  grunt.loadNpmTasks("grunt-filerev");
 
   // Default task.
   grunt.registerTask("default", ["cat:logo"]);
